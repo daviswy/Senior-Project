@@ -20,7 +20,7 @@ L=1e-8
 #Assign a variable to the sigma value.
 sig=1e-10
 #Assign a variable to the k value. 
-k=5e10
+k=0
 #Assign a variable to the initial x position.
 xi=0.
 #Assign a variable to the length of the well.
